@@ -7,7 +7,7 @@ Hi, I'm Rami and I'm currently pursuing a degree in Computer Science at Californ
 Interested in building meaningful and innovative projects.
 </li>
 <li>
-Currently working on improving and diversifying my skillsets.
+Currently improving and diversifying my skillsets.
 </li>
 <li>
 You can reach me at: <a href="mailto:Chaarrami22@gmail.com">Chaarrami22@gmail.com</a>
