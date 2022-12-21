@@ -1,4 +1,4 @@
-# About Me:
+# 👋 About Me:
 <ul>
 <li>
 Hi, I'm Rami and I'm currently pursuing a degree in Computer Science at California State University, Northridge.
