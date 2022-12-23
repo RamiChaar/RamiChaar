@@ -1,7 +1,7 @@
 # 👋 About Me:
 <ul>
 <li>
-Hi, I'm Rami and I'm currently pursuing a degree in Computer Science at California State University, Northridge.
+Hi, my name is Rami and I'm currently pursuing a degree in Computer Science at California State University, Northridge.
 </li>
 <li>
 Interested in building meaningful and innovative projects.
