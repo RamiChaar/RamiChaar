@@ -39,5 +39,7 @@ You can reach me at: <a href="mailto:Chaarrami22@gmail.com">Chaarrami22@gmail.co
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 # 📊 GitHub Stats:
+<div>
 ![](https://github-readme-stats.vercel.app/api?username=RamiChaar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiChaar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
